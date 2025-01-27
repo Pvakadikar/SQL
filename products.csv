@@ -1,0 +1,6 @@
+product_id,product_name,description,price,stock_quantity
+1,iPhone X,"Apple iPhone X, 64GB",999,10
+2,Galaxy S9,"Samsung Galaxy S9, 128GB",899,5
+3,iPad Pro,"Apple iPad Pro, 11-inch",799,8
+4,Pixel 4a,"Google Pixel 4a, 128GB",499,12
+5,MacBook Air,"Apple MacBook Air, 13-inch",1099,3
